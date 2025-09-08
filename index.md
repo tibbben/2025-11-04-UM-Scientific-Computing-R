@@ -79,6 +79,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h2>Registration</h2>
+<a href="https://events.miami.edu/event/r-fall-2025">Register here</a>
+
 
 <h2 id="general">General Information</h2>
 
